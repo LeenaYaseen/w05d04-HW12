@@ -85,7 +85,7 @@ rails db:seed
 
 ## Files
 
-Error I got a page not found!
+So The websites worked but the data is not showing...
 
 Webpage: https://hw-book-app.herokuapp.com/
 Github repo: https://github.com/LeenaYaseen/book_app
